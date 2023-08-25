@@ -41,3 +41,5 @@ Everything ok?
 
 Open a terminal in *movie-app* Directory and run `npm install` and then `npm start`.
 It should open a browser window with the movie-app running.
+
+Another README how to create React app inside movie-client directory.
