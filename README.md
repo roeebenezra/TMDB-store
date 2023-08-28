@@ -3,7 +3,8 @@
 Author: Roee BenEzra
 
 
-<img width="1377" alt="Screenshot 2023-08-27 at 14 26 18" src="https://github.com/roeebenezra/TMDB-store/assets/93773055/800b235a-3804-409b-b4d3-4fedca4f0bf4">
+https://github.com/roeebenezra/TMDB-store/assets/93773055/ebbbc322-e003-4312-a18d-e73b2c498a94
+
 
 
 
@@ -22,13 +23,6 @@ to put in your info and finish the purchase.
 
 The project is divided into 2 parts: the server and the client.
 The server is a spring boot application, and the client is a react application.
-
-
-
-
-https://github.com/roeebenezra/TMDB-store/assets/93773055/f96d4ac9-b517-4d70-9bdf-d8b28424fd06
-
-
 
 
 ## Initializing the template
