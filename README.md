@@ -1,12 +1,11 @@
-# Authors
+## TMDB Store
 
-author: Roee BenEzra
+Author: Roee BenEzra
 
 
 <img width="1377" alt="Screenshot 2023-08-27 at 14 26 18" src="https://github.com/roeebenezra/TMDB-store/assets/93773055/800b235a-3804-409b-b4d3-4fedca4f0bf4">
 
 
-## TMDB Store
 
 This project is a movie store, where you can search for movies and add them to your cart.
 You can also see your cart in the top right link and remove movies from it.
@@ -26,7 +25,9 @@ The server is a spring boot application, and the client is a react application.
 
 
 
-Uploading screen-recording-2023-08-27-at-142632_5ThKG35S.mp4…
+
+https://github.com/roeebenezra/TMDB-store/assets/93773055/f96d4ac9-b517-4d70-9bdf-d8b28424fd06
+
 
 
 
