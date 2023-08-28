@@ -1,6 +1,6 @@
 # Authors
 
-#### Roee BenEzra 206123994, email : roibe@edu.hac.ac.il
+author: Roee BenEzra
 
 
 <img width="1377" alt="Screenshot 2023-08-27 at 14 26 18" src="https://github.com/roeebenezra/TMDB-store/assets/93773055/800b235a-3804-409b-b4d3-4fedca4f0bf4">
