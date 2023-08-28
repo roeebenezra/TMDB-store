@@ -2,7 +2,10 @@
 
 #### Roee BenEzra 206123994, email : roibe@edu.hac.ac.il
 
----------------------------------------------
+
+<img width="1377" alt="Screenshot 2023-08-27 at 14 26 18" src="https://github.com/roeebenezra/TMDB-store/assets/93773055/800b235a-3804-409b-b4d3-4fedca4f0bf4">
+
+
 ## TMDB Store
 
 This project is a movie store, where you can search for movies and add them to your cart.
@@ -21,7 +24,10 @@ to put in your info and finish the purchase.
 The project is divided into 2 parts: the server and the client.
 The server is a spring boot application, and the client is a react application.
 
----------------------------------------------
+
+
+Uploading screen-recording-2023-08-27-at-142632_5ThKG35S.mp4…
+
 
 
 ## Initializing the template
